@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c342e9ac-75cf-4a05-83ed-f54f2e3e18a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g3XrSlp5h3CWIfOEdCo4bOMzhh" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Day_02_TitleUrlTest">
+    <configuration name="Day02_NavigationOdev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day02_NavigationOdev" />
+      <module name="SeleniumIlkProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_02_DriverMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day_02_DriverMethods" />
+      <module name="SeleniumIlkProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_02_DriverOdev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day_02_DriverOdev" />
+      <module name="SeleniumIlkProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_02_IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day_02_IfElse" />
+      <module name="SeleniumIlkProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_02_TitleUrlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day_02_TitleUrlTest" />
+      <module name="SeleniumIlkProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Day_02_TitleUrlTest" />
+        <item itemvalue="Application.Day_02_IfElse" />
+        <item itemvalue="Application.Day_02_DriverOdev" />
+        <item itemvalue="Application.Day_02_DriverMethods" />
+        <item itemvalue="Application.Day02_NavigationOdev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c342e9ac-75cf-4a05-83ed-f54f2e3e18a7" name="Default Changelist" comment="" />
+      <created>1597344447703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597344447703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="953" height="255" key="GridCell.Tab.0.bottom" timestamp="1597436192717">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="953" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1597430865313" />
+    <state width="953" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1597428567325" />
+    <state width="953" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1597433966651" />
+    <state width="953" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1597436192717" />
+    <state width="953" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.965@0.23.1680.965" timestamp="1597349929750" />
+    <state width="953" height="255" key="GridCell.Tab.0.center" timestamp="1597436192716">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="953" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1597430865312" />
+    <state width="953" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1597428567324" />
+    <state width="953" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1597433966650" />
+    <state width="953" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1597436192716" />
+    <state width="953" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.965@0.23.1680.965" timestamp="1597349929748" />
+    <state width="953" height="255" key="GridCell.Tab.0.left" timestamp="1597436192715">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="953" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1597430865311" />
+    <state width="953" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1597428567323" />
+    <state width="953" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1597433966649" />
+    <state width="953" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1597436192715" />
+    <state width="953" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.965@0.23.1680.965" timestamp="1597349929748" />
+    <state width="953" height="255" key="GridCell.Tab.0.right" timestamp="1597436192717">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="953" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1597430865312" />
+    <state width="953" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1597428567324" />
+    <state width="953" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1597433966650" />
+    <state width="953" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1597436192717" />
+    <state width="953" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.965@0.23.1680.965" timestamp="1597349929749" />
+    <state x="28" y="61" width="945" height="834" key="SettingsEditor" timestamp="1597347116846">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state x="0" y="82" key="SettingsEditor/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1597346722335" />
+    <state x="28" y="61" width="945" height="834" key="SettingsEditor/1680.165.1920.1057/0.23.1680.964@0.23.1680.964" timestamp="1597347116846" />
+  </component>
+</project>
