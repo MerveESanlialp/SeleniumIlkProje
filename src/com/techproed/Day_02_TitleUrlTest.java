@@ -18,8 +18,7 @@ public class Day_02_TitleUrlTest {
             System.out.println("video kelimesini icermiyor");
         }
         driver.quit();
-
-
+        
 
     }
 }
