@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
 
-public class Day_03_LocatorsGiris {
+public class Day_03LocatorsGiris {
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver","/Users/mesanlialp/Documents/Selenium libaries/drivers/chromedriver");
         WebDriver driver = new ChromeDriver();
@@ -15,11 +15,10 @@ public class Day_03_LocatorsGiris {
         driver.manage().window().maximize();
         driver.get("http://a.testaddressbook.com/");
 
-       // Websayfasindaki tum elemanlari Webelement ile tanimlamak lazim
+        // Websayfasindaki tum elemanlari Webelement ile tanimlamak lazim
         // click buldugun webelementi tikla
         WebElement signInLink = driver.findElement(By.id("sign-in"));
         signInLink.click();
-
 
         WebElement emailkutusu = driver.findElement(By.id("session_email"));
         emailkutusu.click();
